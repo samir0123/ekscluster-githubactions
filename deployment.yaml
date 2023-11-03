@@ -19,4 +19,4 @@ spec:
           image: 979578978884.dkr.ecr.us-east-2.amazonaws.com/docker_nodejs_demo:latest
           imagePullPolicy: Always
           ports:
-            - containerPort: 8080
+            - containerPort: 3000
